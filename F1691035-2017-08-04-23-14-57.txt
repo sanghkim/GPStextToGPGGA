@@ -1,0 +1,12 @@
+P13   Test report Date\Time 04.08.2017 23:14:21, GPS reference week number 1960
+Integrated device s/n: F1691035 firmware version: A2IMU v2.9.2.3 05.07.17
+*IMU: IMU1A s/n 22173 firmware version: IMMM R.1.1.4 12.19.2016
+*GNSS receiver: OEM617D-1.00 model: D2SW0GTT0 s/n: BMES17210105P firmware version: OEM060710RN0000 maximum data rate: 20Hz
+*Pressure sensor: type2
+Measurement rate, Hz ___________________ 70
+Magnetic declination ___________________ Mdec= -8.30 (auto) Latitude= 37.3422   Longitude= 126.7280   Altitude= 34.00   Date= 2017.5050
+Initial alignment ______________________ Heading =     75.558        Roll =     -1.291       Pitch =      1.878
+
+        Heading          Pitch           Roll         Gyro_X         Gyro_Y         Gyro_Z          Acc_X          Acc_Y          Acc_Z         Magn_X         Magn_Y         Magn_Z    Temperature            Vdd      USW (L/H)              Latitude      Longitude       Altitude         V_East        V_North           V_Up       Lat_GNSS      Long_GNSS    Height_GNSS        Hor_spd        Trk_gnd        Ver_spd         ms_gps    GNSS_info_1    GNSS_info_2       #solnSVs     Latency_ms_pos     Latency_ms_vel          P_Bar          H_Bar        New_GPS
+          75.46           1.92          -1.30        -0.3200        -0.0200         0.0000       0.019250       0.023250       0.985000       -85690.0        14790.0       159720.0           44.9          12.74     00000000 00000000     37.5087138    127.0620972     45.4400000           0.01          -0.03           0.04     37.5087138    127.0620972     45.4500000           0.03         154.17           0.04      483314092       00110000       00111100              9                 14                 21         100476          45.61              0
+          75.46           1.93          -1.30         0.6400        -0.0800         0.0000       0.019750       0.058000       1.006500       -85700.0        14790.0       159700.0           44.9          12.49     00000000 00000000     37.5187139    127.1620973     45.4400000           0.01          -0.03           0.04     37.5087138    127.0620972     45.4500000           0.03         154.17           0.04      483314107       00110000       00111100              9                 14                 21         100476          45.69              
